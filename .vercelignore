@@ -1,0 +1,9 @@
+backend/
+mobile/
+BS7/
+node_modules/
+uploads/
+database/
+docs/
+*.log
+.gitmodules
