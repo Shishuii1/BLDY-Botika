@@ -1,0 +1,16 @@
+{
+  "name": "pharmasys-mobile",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios"
+  },
+  "description": "PharmaSys Mobile App",
+  "dependencies": {
+    "expo": "^55.0.24",
+    "react": "^19.2.6",
+    "react-native": "^0.85.3"
+  }
+}
